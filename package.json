@@ -1,0 +1,16 @@
+{
+  "name": "atividade-01",
+  "version": "1.0.0",
+  "description": "Resolução da atividade 01 de arquitetura de software conforme diagrama de classe fornecido pelo professor",
+  "main": "Aluno.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Classes",
+    "POO",
+    "Javascript"
+  ],
+  "author": "Sérgio Alexandre",
+  "license": "ISC"
+}
